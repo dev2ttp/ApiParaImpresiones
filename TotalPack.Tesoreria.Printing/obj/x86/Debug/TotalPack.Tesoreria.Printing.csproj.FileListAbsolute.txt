@@ -1,0 +1,1 @@
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\obj\x86\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache

@@ -1,0 +1,42 @@
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\bin\Debug\TotalPack.Locker.Printing.dll
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\bin\Debug\TotalPack.Locker.Printing.pdb
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.csprojResolveAssemblyReference.cache
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.dll
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.pdb
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\bin\Debug\StarIO.xml
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\bin\Debug\StarIO.dll
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\bin\Debug\StarIOPort.dll
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\bin\Debug\NiiPrinterCLib.dll
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+E:\Proyectos\Totalpack\Locker\TotalPack.Locker\TotalPack.Locker.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\bin\Debug\StarIOPort.dll
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\bin\Debug\TotalPack.Locker.Printing.dll
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\bin\Debug\TotalPack.Locker.Printing.pdb
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\bin\Debug\StarIO.xml
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.csprojAssemblyReference.cache
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.csproj.CoreCompileInputs.cache
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.csproj.CopyComplete
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.dll
+C:\Users\claudio.rios\Desktop\Nueva carpeta\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.pdb
+D:\tp\TotalPack.Locker.Printing\bin\Debug\StarIOPort.dll
+D:\tp\TotalPack.Locker.Printing\bin\Debug\TotalPack.Locker.Printing.dll
+D:\tp\TotalPack.Locker.Printing\bin\Debug\TotalPack.Locker.Printing.pdb
+D:\tp\TotalPack.Locker.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+D:\tp\TotalPack.Locker.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+D:\tp\TotalPack.Locker.Printing\bin\Debug\StarIO.xml
+D:\tp\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.csprojAssemblyReference.cache
+D:\tp\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.csproj.CoreCompileInputs.cache
+D:\tp\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.csproj.CopyComplete
+D:\tp\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.dll
+D:\tp\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.pdb
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\bin\Debug\StarIOPort.dll
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\bin\Debug\TotalPack.Locker.Printing.dll
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\bin\Debug\TotalPack.Locker.Printing.pdb
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\bin\Debug\StarIO.xml
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.csprojResolveAssemblyReference.cache
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.dll
+C:\Users\c.azocar\Desktop\tp\TotalPack.Locker.Printing\obj\Debug\TotalPack.Locker.Printing.pdb

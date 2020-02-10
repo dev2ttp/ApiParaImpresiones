@@ -1,0 +1,112 @@
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojResolveAssemblyReference.cache
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\NiiPrinterCLib.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\StarIO.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\StarIO.xml
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+E:\Proyectos\Totalpack\Efectivo\TotalPack.Tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+D:\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+D:\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+D:\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+D:\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+D:\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+D:\totalpack-tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojResolveAssemblyReference.cache
+D:\totalpack-tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+D:\totalpack-tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+D:\Proyectos\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+D:\Proyectos\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+D:\Proyectos\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+D:\Proyectos\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+D:\Proyectos\totalpack-tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+D:\Proyectos\totalpack-tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+D:\Proyectos\totalpack-tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+D:\Proyectos\totalpack-tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojResolveAssemblyReference.cache
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CoreCompileInputs.cache
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\claudio.rios\Desktop\Desarrollo\Git\Tesoreria\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CoreCompileInputs.cache
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\Version 2.0\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CoreCompileInputs.cache
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\Version 2.0\Servicio Pago 2\Tesoreria V.1.0.0 (actualizada)\TesoreriaApp\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CoreCompileInputs.cache
+D:\ProyectosGIT\Tesoreria\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\QA\API\WebAPINetCore\WebAPINetCore\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\QA\API\ApiImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\source\repos\ApiImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\source\repos\ApiParaImpresion\ApiParaImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csprojAssemblyReference.cache
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.csproj.CopyComplete
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
