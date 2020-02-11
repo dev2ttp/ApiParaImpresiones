@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiParaImpresion", "ApiPara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalPack.Tesoreria.Printing", "TotalPack.Tesoreria.Printing\TotalPack.Tesoreria.Printing.csproj", "{611B599D-C82D-4B53-BC29-47973A8400C5}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DllPrinter", "..\DllPrinterVB\DllPrinter\DllPrinter\DllPrinter.vbproj", "{7BC0F19E-6E83-4998-8646-C76E3EE8707D}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DllPrinter", "DllPrinterVB\DllPrinter\DllPrinter\DllPrinter.vbproj", "{7BC0F19E-6E83-4998-8646-C76E3EE8707D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

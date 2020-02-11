@@ -6,21 +6,41 @@ using System.Web.Hosting;
 using System.Web.Http;
 using TotalPack.Tesoreria.Printing;
 using DllPrinter;
+using ApiParaImpresion.Properties;
+using ApiParaImpresion.Models;
+using Newtonsoft.Json;
 
 namespace ApiParaImpresion.Controllers
 {
     public class ImpresionController : ApiController
     {
-        //private readonly PrinterBase printer = PrinterManager.GetPrinter("Star TUP900 Presenter (TUP992)");
+        private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         DllPrinter.PrinterManager printer = new DllPrinter.PrinterManager();
         DllPrinter.PrintResponseModel res = new PrintResponseModel();
-        // GET api/values
-        [HttpPost]
+        // GET api/values      
         [Route("api/Impresion/RealizarImpresion")]
-        public IEnumerable<string> RealizarImpresion([FromBody] String Docuemnto)
+        [HttpPost]
+        public PrintResponse RealizarImpresion([FromBody] PrintReq req)
         {
-           printer.PrintTicket("TUP900", Docuemnto, "Star TUP900 Presenter (TUP992)");
-            return new string[] { "value1", "value2" };
+            log.Info("Q: Realizar Impresión: " + Settings.Default.printerName);
+            PrintResponse response = new PrintResponse();
+            try
+            {              
+                printer.PrintTicket(Settings.Default.printerType, req.document, Settings.Default.printerName);
+                response.status = true;
+                response.code = 200;
+                response.message = "Impresión OK";
+                log.Info("R: Realizar Impresión: " + JsonConvert.SerializeObject(response));
+                return response;
+            }
+            catch (Exception e)
+            {               
+                response.status = false;
+                response.code = 804;
+                response.message = e.ToString();
+                log.Error("E: Realizar Impresión: " + JsonConvert.SerializeObject(response));
+                return response;
+            }          
         }
     }
 }

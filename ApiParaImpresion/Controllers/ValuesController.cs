@@ -5,13 +5,14 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using TotalPack.Tesoreria.Printing;
+using ApiParaImpresion.Properties;
 
 namespace ApiParaImpresion.Controllers
 {
     public class ValuesController : ApiController
     {
-        private readonly PrinterBase printer = PrinterManager.GetPrinter("Star TUP900 Presenter (TUP992)");
-
+        private readonly PrinterBase printer = PrinterManager.GetPrinter(Settings.Default.printerName);
+        private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         // GET api/values
         public IEnumerable<string> Get()
         {
