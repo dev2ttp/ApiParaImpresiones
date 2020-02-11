@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
 
-namespace TotalPack.Tesoreria.Printing.Nipon
+namespace TotalPack.Printing.Nipon
 {
     /// <summary>
     /// Defines the methods to communicate with a Nipon printer.

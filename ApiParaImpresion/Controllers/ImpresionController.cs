@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Hosting;
 using System.Web.Http;
-using TotalPack.Tesoreria.Printing;
+using TotalPack.Printing;
 using DllPrinter;
 using ApiParaImpresion.Properties;
 using ApiParaImpresion.Models;
@@ -16,8 +16,7 @@ namespace ApiParaImpresion.Controllers
     {
         private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         DllPrinter.PrinterManager printer = new DllPrinter.PrinterManager();
-        DllPrinter.PrintResponseModel res = new PrintResponseModel();
-        // GET api/values      
+
         [Route("api/Impresion/RealizarImpresion")]
         [HttpPost]
         public PrintResponse RealizarImpresion([FromBody] PrintReq req)

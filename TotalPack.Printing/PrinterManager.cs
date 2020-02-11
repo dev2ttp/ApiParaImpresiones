@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TotalPack.Tesoreria.Printing.Nipon;
-using TotalPack.Tesoreria.Printing.StarIO;
+using TotalPack.Printing.Nipon;
+using TotalPack.Printing.StarIO;
 
-namespace TotalPack.Tesoreria.Printing
+namespace TotalPack.Printing
 {
     /// <summary>
     /// This class is used to request 

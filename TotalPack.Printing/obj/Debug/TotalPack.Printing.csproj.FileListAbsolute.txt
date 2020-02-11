@@ -1,0 +1,17 @@
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Tesoreria.Printing\bin\Debug\StarIOPort.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Tesoreria.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Tesoreria.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Printing.csproj.CopyComplete
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Tesoreria.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\Debug\StarIOPort.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\obj\Debug\TotalPack.Printing.csproj.CopyComplete
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\obj\Debug\TotalPack.Tesoreria.Printing.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\obj\Debug\TotalPack.Tesoreria.Printing.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\obj\Debug\TotalPack.Printing.csprojAssemblyReference.cache

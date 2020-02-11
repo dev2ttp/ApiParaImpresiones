@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TotalPack.Tesoreria.Printing.Nipon
+namespace TotalPack.Printing.Nipon
 {
     /// <summary>
     /// The exception that is thrown when a status error occurs.

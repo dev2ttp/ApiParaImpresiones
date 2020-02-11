@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using StarMicronics.StarIO;
 
-namespace TotalPack.Tesoreria.Printing.StarIO
+namespace TotalPack.Printing.StarIO
 {
     /// <summary>
     /// Defines the methods to communicate with a StarIO printer.

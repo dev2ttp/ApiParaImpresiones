@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TotalPack.Tesoreria.Printing.StarIO
+namespace TotalPack.Printing.StarIO
 {
     internal class StarIOCodePage
     {

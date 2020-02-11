@@ -288,7 +288,6 @@ C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\ApiParaImpresion\obj\Debug\Ap
 C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\ApiParaImpresion\obj\Debug\ApiParaImpresion.csproj.CopyComplete
 C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\ApiParaImpresion\obj\Debug\ApiParaImpresion.dll
 C:\Users\ttp\Desktop\Impresion DM\ApiParaImpresion\ApiParaImpresion\obj\Debug\ApiParaImpresion.pdb
-C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.csprojAssemblyReference.cache
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\StarIOPort.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\ApiParaImpresion.dll.config
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\ApiParaImpresion.dll
@@ -341,9 +340,11 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\r
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Antlr3.Runtime.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\DllPrinter.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\log4net.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Newtonsoft.Json.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Swashbuckle.Core.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\System.Net.Http.Formatting.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\System.Web.Helpers.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\System.Web.Http.dll
@@ -355,6 +356,7 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\S
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\System.Web.WebPages.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\System.Web.WebPages.Razor.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\TotalPack.Tesoreria.Printing.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\WebActivatorEx.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\WebGrease.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\NiiPrinterCLib.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\StarIO.dll
@@ -362,6 +364,7 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\K
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\DllPrinter.pdb
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\DllPrinter.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\TotalPack.Tesoreria.Printing.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\log4net.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Newtonsoft.Json.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\System.Net.Http.Formatting.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\System.Web.Helpers.xml
@@ -386,10 +389,7 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\e
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\es\System.Web.WebPages.resources.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.csprojAssemblyReference.cache
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.csproj.CopyComplete
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.pdb
-C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\log4net.dll
-C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Swashbuckle.Core.dll
-C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\WebActivatorEx.dll
-C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\log4net.xml

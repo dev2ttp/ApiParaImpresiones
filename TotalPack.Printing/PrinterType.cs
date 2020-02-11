@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TotalPack.Tesoreria.Printing
+namespace TotalPack.Printing
 {
     /// <summary>
     /// Specifies the type of printer that an instance of the <see cref="PrinterBase"/> class represents.

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TotalPack.Tesoreria.Printing
+namespace TotalPack.Printing
 {
     /// <summary>
     /// Represents the current state of the printer.

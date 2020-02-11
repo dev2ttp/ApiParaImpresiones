@@ -209,6 +209,7 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <Content Include="log4net.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -271,9 +272,9 @@
       <Project>{7bc0f19e-6e83-4998-8646-c76e3ee8707d}</Project>
       <Name>DllPrinter</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TotalPack.Tesoreria.Printing\TotalPack.Tesoreria.Printing.csproj">
+    <ProjectReference Include="..\TotalPack.Printing\TotalPack.Printing.csproj">
       <Project>{611b599d-c82d-4b53-bc29-47973a8400c5}</Project>
-      <Name>TotalPack.Tesoreria.Printing</Name>
+      <Name>TotalPack.Printing</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
