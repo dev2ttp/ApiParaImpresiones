@@ -1,0 +1,14 @@
+2020-03-04 12:55:20,414 [11] INFO ApiParaImpresion.Controllers.ImpresionController - Q: Realizar Impresión: 80mm Series Printer
+2020-03-04 12:55:20,644 [11] INFO ApiParaImpresion.Controllers.ImpresionController - R: Realizar Impresión: {"status":true,"code":200,"message":"Impresión OK"}
+2020-03-04 16:34:01,711 [6] INFO ApiParaImpresion.Controllers.ImpresionController - Q: Realizar Impresión: NPI Integration Driver
+2020-03-04 16:34:01,888 [6] INFO ApiParaImpresion.Controllers.ImpresionController - R: Realizar Impresión: {"status":true,"code":200,"message":"Impresión OK"}
+2020-03-04 16:34:17,125 [7] INFO ApiParaImpresion.Controllers.ImpresionController - Q: Realizar Impresión: NPI Integration Driver
+2020-03-04 16:34:17,126 [7] INFO ApiParaImpresion.Controllers.ImpresionController - E: Realizar Impresión: {"status":false,"code":400,"message":"Error al imprimir"}
+2020-03-04 16:34:19,901 [6] INFO ApiParaImpresion.Controllers.ImpresionController - Q: Realizar Impresión: NPI Integration Driver
+2020-03-04 16:34:20,030 [6] INFO ApiParaImpresion.Controllers.ImpresionController - R: Realizar Impresión: {"status":true,"code":200,"message":"Impresión OK"}
+2020-03-04 16:34:24,533 [6] INFO ApiParaImpresion.Controllers.ImpresionController - Q: Realizar Impresión: NPI Integration Driver
+2020-03-04 16:34:24,660 [6] INFO ApiParaImpresion.Controllers.ImpresionController - R: Realizar Impresión: {"status":true,"code":200,"message":"Impresión OK"}
+2020-03-04 16:34:28,332 [7] INFO ApiParaImpresion.Controllers.ImpresionController - Q: Realizar Impresión: NPI Integration Driver
+2020-03-04 16:34:28,333 [7] INFO ApiParaImpresion.Controllers.ImpresionController - E: Realizar Impresión: {"status":false,"code":400,"message":"Error al imprimir"}
+2020-03-04 16:34:30,389 [6] INFO ApiParaImpresion.Controllers.ImpresionController - Q: Realizar Impresión: NPI Integration Driver
+2020-03-04 16:34:30,513 [6] INFO ApiParaImpresion.Controllers.ImpresionController - R: Realizar Impresión: {"status":true,"code":200,"message":"Impresión OK"}

@@ -1,0 +1,9 @@
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\obj\x86\Release\TotalPack.Printing.csprojAssemblyReference.cache
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\x86\Release\StarIOPort.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\x86\Release\TotalPack.Tesoreria.Printing.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\x86\Release\TotalPack.Tesoreria.Printing.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\x86\Release\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\bin\x86\Release\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\obj\x86\Release\TotalPack.Printing.csproj.CopyComplete
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\obj\x86\Release\TotalPack.Tesoreria.Printing.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\TotalPack.Printing\obj\x86\Release\TotalPack.Tesoreria.Printing.pdb

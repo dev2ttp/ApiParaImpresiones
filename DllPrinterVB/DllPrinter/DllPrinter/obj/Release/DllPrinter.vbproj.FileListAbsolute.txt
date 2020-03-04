@@ -1,0 +1,10 @@
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Release\DllPrinter.Resources.resources
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Release\DllPrinter.vbproj.GenerateResource.cache
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Release\DllPrinter.vbprojAssemblyReference.cache
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\bin\Release\DllPrinter.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\bin\Release\DllPrinter.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\bin\Release\DllPrinter.xml
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Release\DllPrinter.vbproj.CopyComplete
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Release\DllPrinter.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Release\DllPrinter.xml
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Release\DllPrinter.pdb

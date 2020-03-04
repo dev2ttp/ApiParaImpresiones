@@ -20,3 +20,4 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinte
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Debug\DllPrinter.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Debug\DllPrinter.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Debug\DllPrinter.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinterVB\DllPrinter\DllPrinter\obj\Debug\DllPrinter.vbprojAssemblyReference.cache

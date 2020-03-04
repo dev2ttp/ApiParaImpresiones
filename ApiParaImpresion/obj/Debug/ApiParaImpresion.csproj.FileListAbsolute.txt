@@ -393,3 +393,4 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\D
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.csproj.CopyComplete
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\log4net.config
