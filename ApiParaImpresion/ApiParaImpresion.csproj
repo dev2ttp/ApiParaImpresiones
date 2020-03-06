@@ -213,6 +213,7 @@
     <Content Include="log4net.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\PDF\Bono.pdf" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -272,7 +273,7 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DllPrinterVB\DllPrinter\DllPrinter\DllPrinter.vbproj">
+    <ProjectReference Include="..\DllPrinter\DllPrinter\DllPrinter.vbproj">
       <Project>{7bc0f19e-6e83-4998-8646-c76e3ee8707d}</Project>
       <Name>DllPrinter</Name>
     </ProjectReference>
