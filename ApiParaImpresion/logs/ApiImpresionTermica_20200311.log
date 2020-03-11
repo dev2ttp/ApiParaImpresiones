@@ -1,0 +1,141 @@
+2020-03-11 08:53:07,578 [11] INFO ApiParaImpresion.Services.PdfService - Q: Convert And Print Bono: 
+2020-03-11 08:53:07,585 [5] INFO ApiParaImpresion.Services.PdfService - bodyData: Convert And Print Bono: 
+2020-03-11 08:54:41,194 [5] INFO ApiParaImpresion.Services.PdfService - Q: Convert And Print Bono: 
+2020-03-11 08:54:41,202 [6] INFO ApiParaImpresion.Services.PdfService - bodyData: Convert And Print Bono: 
+2020-03-11 08:54:41,202 [6] INFO ApiParaImpresion.Services.PdfService - Q: Convert to PdF: Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021
+Convenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION
+DATOS DE BENEFICIARIO
+Afiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA
+Beneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F
+Direcci¢n: BREMEN 1465 DEPTO 21
+Plan Grupo: D
+DATOS DE PRESTADOR
+Profesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.
+PRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago
+                                                                                                                              Financiador       Bonificaci¢n*
+0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740
+                                                                                          Totales           $14.340           $8.600            $0                $5.740
+                                                                                                                                                 A Pagar:$ 5740
+Detalles otras bonificaciones*
+MEDIOS DE PAGO**
+Emisor: 0000000120-1 | Derivado por: 0000000000-0
+ Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS
+2020-03-11 08:54:41,339 [6] INFO ApiParaImpresion.Services.PdfService - R: Save file as PDF: OK
+2020-03-11 08:54:41,340 [6] INFO ApiParaImpresion.Services.PdfService - R: Convert And Print Bono: OK
+2020-03-11 08:54:41,340 [6] INFO ApiParaImpresion.Services.PdfService - R: File Deleted: OK
+2020-03-11 08:57:22,130 [6] INFO ApiParaImpresion.Services.PdfService - Q: Convert And Print Bono: 
+2020-03-11 08:57:22,138 [7] INFO ApiParaImpresion.Services.PdfService - bodyData: Convert And Print Bono: 
+2020-03-11 08:57:22,138 [7] INFO ApiParaImpresion.Services.PdfService - Q: Convert to PdF: Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021
+Convenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION
+DATOS DE BENEFICIARIO
+Afiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA
+Beneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F
+Direcci¢n: BREMEN 1465 DEPTO 21
+Plan Grupo: D
+DATOS DE PRESTADOR
+Profesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.
+PRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago
+                                                                                                                              Financiador       Bonificaci¢n*
+0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740
+                                                                                          Totales           $14.340           $8.600            $0                $5.740
+                                                                                                                                                 A Pagar:$ 5740
+Detalles otras bonificaciones*
+MEDIOS DE PAGO**
+Emisor: 0000000120-1 | Derivado por: 0000000000-0
+ Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS
+2020-03-11 08:57:22,270 [7] INFO ApiParaImpresion.Services.PdfService - R: Save file as PDF: OK
+2020-03-11 08:57:22,271 [7] INFO ApiParaImpresion.Services.PdfService - R: Convert And Print Bono: OK
+2020-03-11 08:57:22,271 [7] INFO ApiParaImpresion.Services.PdfService - R: File Deleted: OK
+2020-03-11 08:57:57,800 [13] INFO ApiParaImpresion.Services.PdfService - Q: Convert And Print Bono: 
+2020-03-11 08:57:57,808 [6] INFO ApiParaImpresion.Services.PdfService - bodyData: Convert And Print Bono: 
+2020-03-11 08:57:57,809 [6] INFO ApiParaImpresion.Services.PdfService - Q: Convert to PdF: Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021
+Convenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION
+DATOS DE BENEFICIARIO
+Afiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA
+Beneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F
+Direcci¢n: BREMEN 1465 DEPTO 21
+Plan Grupo: D
+DATOS DE PRESTADOR
+Profesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.
+PRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago
+                                                                                                                              Financiador       Bonificaci¢n*
+0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740
+                                                                                          Totales           $14.340           $8.600            $0                $5.740
+                                                                                                                                                 A Pagar:$ 5740
+Detalles otras bonificaciones*
+MEDIOS DE PAGO**
+Emisor: 0000000120-1 | Derivado por: 0000000000-0
+ Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS
+2020-03-11 08:57:57,941 [6] INFO ApiParaImpresion.Services.PdfService - R: Save file as PDF: OK
+2020-03-11 08:57:57,942 [6] INFO ApiParaImpresion.Services.PdfService - R: Convert And Print Bono: OK
+2020-03-11 08:57:57,942 [6] INFO ApiParaImpresion.Services.PdfService - R: File Deleted: OK
+2020-03-11 08:58:16,004 [6] INFO ApiParaImpresion.Controllers.ImpresionController - R: Realizar Impresión: Corte OK
+2020-03-11 08:58:16,021 [6] INFO ApiParaImpresion.Controllers.ImpresionController - R: Realizar Impresión: {"status":true,"code":200,"message":"Impresión OK"}
+2020-03-11 09:50:12,551 [6] INFO ApiParaImpresion.Services.PdfService - Q: Print Bono Async:: 
+2020-03-11 09:50:18,329 [7] INFO ApiParaImpresion.Services.PdfService - bodyData: Print Bono Async: {"bono":"Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021\nConvenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION\nDATOS DE BENEFICIARIO\nAfiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA\nBeneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F\nDirecci¢n: BREMEN 1465 DEPTO 21\nPlan Grupo: D\nDATOS DE PRESTADOR\nProfesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.\nPRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago\n                                                                                                                              Financiador       Bonificaci¢n*\n0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740\n                                                                                          Totales           $14.340           $8.600            $0                $5.740\n                                                                                                                                                 A Pagar:$ 5740\nDetalles otras bonificaciones*\nMEDIOS DE PAGO**\nEmisor: 0000000120-1 | Derivado por: 0000000000-0\n Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS"}
+2020-03-11 09:50:28,923 [7] INFO ApiParaImpresion.Services.PdfService - Q: Convert to PdF: Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021
+Convenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION
+DATOS DE BENEFICIARIO
+Afiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA
+Beneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F
+Direcci¢n: BREMEN 1465 DEPTO 21
+Plan Grupo: D
+DATOS DE PRESTADOR
+Profesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.
+PRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago
+                                                                                                                              Financiador       Bonificaci¢n*
+0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740
+                                                                                          Totales           $14.340           $8.600            $0                $5.740
+                                                                                                                                                 A Pagar:$ 5740
+Detalles otras bonificaciones*
+MEDIOS DE PAGO**
+Emisor: 0000000120-1 | Derivado por: 0000000000-0
+ Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS
+2020-03-11 09:50:49,328 [7] INFO ApiParaImpresion.Services.PdfService - R: Save file as PDF: OK
+2020-03-11 09:52:56,725 [6] INFO ApiParaImpresion.Services.PrintService - E: Realizar Impresión: {"status":false,"code":400,"message":"El proceso no puede obtener acceso al archivo 'C:\\Users\\nicolas.mera\\Documents\\GitHub\\ApiParaImpresiones\\ApiParaImpresion\\PdfDocs\\Doc_20200311_0951.pdf_Rotated.pdf' porque está siendo utilizado en otro proceso."}
+2020-03-11 09:54:29,516 [36] INFO ApiParaImpresion.Services.PdfService - Q: Print Bono Async:: 
+2020-03-11 09:54:31,533 [6] INFO ApiParaImpresion.Services.PdfService - bodyData: Print Bono Async: {"bono":"Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021\nConvenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION\nDATOS DE BENEFICIARIO\nAfiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA\nBeneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F\nDirecci¢n: BREMEN 1465 DEPTO 21\nPlan Grupo: D\nDATOS DE PRESTADOR\nProfesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.\nPRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago\n                                                                                                                              Financiador       Bonificaci¢n*\n0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740\n                                                                                          Totales           $14.340           $8.600            $0                $5.740\n                                                                                                                                                 A Pagar:$ 5740\nDetalles otras bonificaciones*\nMEDIOS DE PAGO**\nEmisor: 0000000120-1 | Derivado por: 0000000000-0\n Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS"}
+2020-03-11 09:54:32,492 [6] INFO ApiParaImpresion.Services.PdfService - Q: Convert to PdF: Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021
+Convenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION
+DATOS DE BENEFICIARIO
+Afiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA
+Beneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F
+Direcci¢n: BREMEN 1465 DEPTO 21
+Plan Grupo: D
+DATOS DE PRESTADOR
+Profesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.
+PRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago
+                                                                                                                              Financiador       Bonificaci¢n*
+0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740
+                                                                                          Totales           $14.340           $8.600            $0                $5.740
+                                                                                                                                                 A Pagar:$ 5740
+Detalles otras bonificaciones*
+MEDIOS DE PAGO**
+Emisor: 0000000120-1 | Derivado por: 0000000000-0
+ Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS
+2020-03-11 09:54:43,796 [6] INFO ApiParaImpresion.Services.PdfService - R: Save file as PDF: OK
+2020-03-11 09:55:57,538 [35] INFO ApiParaImpresion.Services.PrintService - R: Realizar Impresión: Corte OK
+2020-03-11 09:55:59,557 [35] INFO ApiParaImpresion.Services.PrintService - R: Realizar Impresión: {"status":true,"code":200,"message":"PDF impreso"}
+2020-03-11 10:00:30,254 [8] INFO ApiParaImpresion.Services.PdfService - Q: Print Bono Async:: 
+2020-03-11 10:00:30,267 [6] INFO ApiParaImpresion.Services.PdfService - bodyData: Print Bono Async: {"bono":"Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021\nConvenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION\nDATOS DE BENEFICIARIO\nAfiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA\nBeneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F\nDirecci¢n: BREMEN 1465 DEPTO 21\nPlan Grupo: D\nDATOS DE PRESTADOR\nProfesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.\nPRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago\n                                                                                                                              Financiador       Bonificaci¢n*\n0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740\n                                                                                          Totales           $14.340           $8.600            $0                $5.740\n                                                                                                                                                 A Pagar:$ 5740\nDetalles otras bonificaciones*\nMEDIOS DE PAGO**\nEmisor: 0000000120-1 | Derivado por: 0000000000-0\n Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS"}
+2020-03-11 10:00:30,268 [6] INFO ApiParaImpresion.Services.PdfService - Q: Convert to PdF: Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021
+Convenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION
+DATOS DE BENEFICIARIO
+Afiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA
+Beneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F
+Direcci¢n: BREMEN 1465 DEPTO 21
+Plan Grupo: D
+DATOS DE PRESTADOR
+Profesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.
+PRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago
+                                                                                                                              Financiador       Bonificaci¢n*
+0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740
+                                                                                          Totales           $14.340           $8.600            $0                $5.740
+                                                                                                                                                 A Pagar:$ 5740
+Detalles otras bonificaciones*
+MEDIOS DE PAGO**
+Emisor: 0000000120-1 | Derivado por: 0000000000-0
+ Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS
+2020-03-11 10:00:30,401 [6] INFO ApiParaImpresion.Services.PdfService - R: Save file as PDF: OK
+2020-03-11 10:00:31,106 [7] INFO ApiParaImpresion.Services.PrintService - R: Realizar Impresión: Corte OK
+2020-03-11 10:00:31,112 [7] INFO ApiParaImpresion.Services.PrintService - R: Realizar Impresión: {"status":true,"code":200,"message":"PDF impreso"}

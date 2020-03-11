@@ -1,0 +1,18 @@
+Fondo Nacional De Salud                                        BONO DE ATENCION AMBULATORIA                                                                      703590021
+Convenio: 16368 - Integramedica S.A. ( Mall Plaza Egana) Fecha Emisi¢n: 2019-01-23               Hora: 09:47:05                       VALIDO SOLO PARA ESTA FECHA DE EMISION
+DATOS DE BENEFICIARIO
+Afiliado: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA
+Beneficiario: 0012643808-7 VERONICA ALEJANDRA SILVA NAVEA / Edad:45 / Sexo: F
+Direcci¢n: BREMEN 1465 DEPTO 21
+Plan Grupo: D
+DATOS DE PRESTADOR
+Profesional / Instituci¢n 0076098454-K INTEGRAMEDICA S.A. / M‚dico tratante: 0076098454-K INTEGRAMEDICA S.A.
+PRESTACION                                                                                                  Valor             Bonificaci¢n      Otra              Copago
+                                                                                                                              Financiador       Bonificaci¢n*
+0101305  1  CONSULTA MEDICA DE ESPECIALIDAD EN MEDICINA FAMILIAR                                            $14.340           $8.600            $0                $5.740
+                                                                                          Totales           $14.340           $8.600            $0                $5.740
+                                                                                                                                                 A Pagar:$ 5740
+Detalles otras bonificaciones*
+MEDIOS DE PAGO**
+Emisor: 0000000120-1 | Derivado por: 0000000000-0
+ Firmado electr¢nica por VERONICA ALEJANDRA SILVA NAVEA | Auditoria TTPK-P0E5-HRK1-AXMS

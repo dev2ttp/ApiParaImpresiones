@@ -380,7 +380,6 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\S
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\System.Web.WebPages.Razor.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Antlr3.Runtime.pdb
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\StarIO.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\itextsharp.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\KellermanSoftware.Compare-NET-Objects.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\es\System.Net.Http.Formatting.resources.dll
@@ -397,3 +396,8 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\D
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.csproj.CopyComplete
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\obj\Debug\ApiParaImpresion.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Spire.License.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Spire.Pdf.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Microsoft.mshtml.dll
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Spire.License.xml
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\ApiParaImpresion\bin\Spire.Pdf.xml

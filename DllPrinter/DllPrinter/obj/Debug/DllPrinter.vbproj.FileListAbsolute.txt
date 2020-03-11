@@ -18,11 +18,10 @@ C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\bin\Debug\DllPrinter.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\bin\Debug\itextsharp.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\bin\Debug\itextsharp.xml
-C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\bin\Debug\StarIO.xml
-C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\obj\Debug\DllPrinter.vbprojAssemblyReference.cache
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\obj\Debug\DllPrinter.Resources.resources
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\obj\Debug\DllPrinter.vbproj.GenerateResource.cache
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\obj\Debug\DllPrinter.vbproj.CopyComplete
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\obj\Debug\DllPrinter.dll
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\obj\Debug\DllPrinter.xml
 C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\obj\Debug\DllPrinter.pdb
+C:\Users\nicolas.mera\Documents\GitHub\ApiParaImpresiones\DllPrinter\DllPrinter\obj\Debug\DllPrinter.vbprojAssemblyReference.cache

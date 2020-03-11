@@ -134,6 +134,32 @@ Public Class PrinterManager
         End If
     End Function
 
+    Public Function SendCut(nombreImpresora As String) As Boolean
+        Try
+            Dim sTck, sAux(2) As String
+            Dim ret, jid As Long
+            sTck = ""
+            sTck &= Chr(&H1B) & Chr(&H64) & Chr(&H4)          '6LF
+            sTck &= Chr(&H1B) & "i"                           'Corte Total
+            'Impresora USB
+            Dim nii As New NiiPrinterCLib.NIIClassLib()
+            ret = nii.NiiStartDoc(nombreImpresora, jid)
+            If ret = 0 Then
+                sAux(0) = ""
+                For i = 1 To Len(sTck)
+                    sAux(0) = sAux(0) & CHGHEX2(Hex(Asc(Mid(sTck, i, 1))))
+                Next i
+                ret = nii.NiiPrint(nombreImpresora, sAux(0), Len(sAux(0)), 0)
+                ret = nii.NiiEndDoc(nombreImpresora)
+                Return True
+            Else
+                Return False
+            End If
+        Catch ex As Exception
+            Return False
+        End Try
+    End Function
+
     Public Function ImprimirPdf(docByte64Array() As Byte, sendToDefaultPrinter As Boolean, nombreImpresora As String, tipoImpresora As String) As PrintResponseModel
         Try
             Dim sPath = Path.Combine(HostingEnvironment.ApplicationPhysicalPath, "PdfDocs")
@@ -147,19 +173,22 @@ Public Class PrinterManager
                 writer.Close()
                 stream.Close()
                 SendToPrinter(filePath, sendToDefaultPrinter, nombreImpresora, tipoImpresora)
+                File.Delete(filePath)
             End Using
+
+            'Dim lena() As Byte = System.Text.Encoding.Default.GetBytes(Chr(&H1B) & "i")
             response.setResponse(True)
-            response.setGlosa("Voucher impreso")
+            response.setGlosa("PDF impreso")
         Catch ex As Exception
             response.setResponse(False)
-            response.setGlosa("ticket no impreso")
+            response.setGlosa(ex.Message)
         End Try
         Return response
     End Function
 
     Private Sub SendToPrinter(fileName As String, sendToDefaultPrinter As Boolean, nombreImpresora As String, tipoImpresora As String)
-        If tipoImpresora.ToUpper() = "TUP992" Then
-            Dim reader As New PdfReader(fileName)
+        'If tipoImpresora.ToUpper() = "TUP992" Then
+        Dim reader As New PdfReader(fileName)
             Dim n As Integer = reader.NumberOfPages
             Dim page As PdfDictionary
             Dim rotate As PdfNumber
@@ -173,12 +202,12 @@ Public Class PrinterManager
                 End If
             Next
 
-            Dim newFilename As String = Path.GetFileNameWithoutExtension(fileName) + "_Rotated" + Path.GetExtension(fileName)
-            Dim stamper As New iTextSharp.text.pdf.PdfStamper(reader, New FileStream(newFilename, FileMode.Create))
-            stamper.Close()
+        Dim newFilename As String = Path.Combine(HostingEnvironment.ApplicationPhysicalPath, "Content", "PDF", fileName + "_Rotated" + Path.GetExtension(fileName))
+        Dim stamper As New PdfStamper(reader, New FileStream(newFilename, FileMode.Create))
+        stamper.Close()
             reader.Close()
-            fileName = newFilename
-        End If
+        fileName = newFilename
+        ' End If
 
         Dim info As New ProcessStartInfo
         info.Verb = "print"
@@ -196,7 +225,9 @@ Public Class PrinterManager
             If Not p.HasExited Then
                 p.WaitForExit(3 * 1000)
             End If
+
             p.Close()
+            File.Delete(Path.Combine(HostingEnvironment.ApplicationPhysicalPath, "Content", "PDF", newFilename))
             KillAdobe()
         End Using
     End Sub

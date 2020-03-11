@@ -15,4 +15,8 @@ namespace ApiParaImpresion.Models
         public int code { get; set; }
         public string message { get; set; }
     }
+    public class PrintBonoReq 
+    {
+        public string bono { get; set; }
+    }
 }
